@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SanaBasharat
-- 👀 I’m interested in AI, Machine Learning, Data Science and their applications in healthcare, specifically medical diagnostic tools.
+- 👀 I’m interested in Data Engineering for Genomics and Bioinformatics.
 - 🌱 I’m currently doing my Masters in Data Informatics from ODTÜ.
 - 💞️ I’m looking to collaborate on projects that interest me and add value to the world.
 - 📫 How to reach me: sana_basharat98@hotmail.com
